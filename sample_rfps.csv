@@ -1,0 +1,11 @@
+rfp_id,organization,stage,estimated_value,received_date,due_date
+EVT-001,Sample Event Group A,new,16500,2026-11-04,2026-11-22
+EVT-002,Demo Expo Partner B,qualified,53000,2026-11-02,2026-11-26
+EVT-003,Example Association C,proposal,22750,2026-10-28,2026-11-21
+EVT-004,Demo Conference D,won,77500,2026-09-05,2026-10-01
+EVT-005,Sample Organizer E,lost,31000,2026-09-11,2026-09-26
+EVT-006,Example Event Group F,proposal,41000,2026-11-10,2026-12-03
+EVT-007,Demo Events G,won,12500,2026-10-01,2026-10-18
+EVT-008,Sample Congress H,qualified,18750,2026-11-03,2026-11-24
+EVT-009,Example Expo I,new,8400,2026-11-12,2026-12-14
+EVT-010,Demo Organizer J,lost,9300,2026-08-20,2026-09-03
